@@ -12,17 +12,20 @@ I'm a **junior software developer** passionate about creating small projects for
 
 ## 🛠️ Technologies & Tools
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,git,java,idea,visualstudio,vscode,godot,github,mysql,mint&perline=4" />
+  </a>
+</p>
+
 
 ## 📖 Currently learning
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css&perline=14" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -33,11 +36,19 @@ I'm a **junior software developer** passionate about creating small projects for
 
 ## 🌐 Connect with Me
 
+<div align="center">
+
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Civer_mau)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFNvnn9YP3WWTJEN0ro-UKg)
 [![Portfolio](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://miverdaderodominio.net/)
 
+</div>
+
 ---
+<div align="center">
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Civermau.Civermau)
+
+</div>
+
 
