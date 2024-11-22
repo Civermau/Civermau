@@ -14,7 +14,7 @@ I'm a **junior software developer** passionate about creating small projects for
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,dotnet,git,java,idea,visualstudio,vscode,godot,github,mysql,mint&perline=4" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,git,java,idea,visualstudio,vscode,godot,github,mint" />
   </a>
 </p>
 
