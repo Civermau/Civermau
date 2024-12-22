@@ -4,7 +4,7 @@
 I'm a **junior software developer** passionate about creating small projects for fun and learning. I specialize in **C#** and **C++**, and I'm currently delving into **web development**.
 
 ## 🔍 About Me
-<img align="right" alt="GIF" src="https://github.com/Civermau/YuiCountryPics/blob/master/MAURITIUS.jpg?raw=true" style="border-radius: 24px; width: 200px" />
+<img align="right" alt="GIF" src="https://github.com/Civermau/YuiCountryPics/blob/master/MAURITIUS.jpg?raw=true" style="border-radius: 24px; width: 190px" />
 
 - 🔭 **Currently Working On:** Building my portfolio website.
 - 🌱 **Learning:** Web development technologies.
