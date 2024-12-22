@@ -1,9 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&color=3189F7&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=100&lines=This+is+Civer_mau;And+welcome+to+my+GitHub+account)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&color=3189F7&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=100&lines=This+is+Civer_mau;And+welcome+to+my+GitHub+account)](https://git.io/typing-svg)
+---
 ![Banner](https://yt3.googleusercontent.com/Z0EpFfOExGOFFC5s7kENvtXESh0O9Jm8xRFxjFhOy3OPN72qvlmzmdqj8FJ59nTHPoRRM05o=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 I'm a **junior software developer** passionate about creating small projects for fun and learning. I specialize in **C#** and **C++**, and I'm currently delving into **web development**.
 
 ## 🔍 About Me
+<img align="right" alt="GIF" src="https://github.com/Civermau/YuiCountryPics/blob/master/MAURITIUS.jpg?raw=true" style="border-radius: 24px; width: 200px" />
 
 - 🔭 **Currently Working On:** Building my portfolio website.
 - 🌱 **Learning:** Web development technologies.
@@ -54,8 +55,7 @@ I'm a **junior software developer** passionate about creating small projects for
 ---
 <div align="center">
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Civermau.Civermau)
-
+![](https://api.visitorbadge.io/api/VisitorHit?user=Civermau&repo=Civermau&countColor=%237B1E7A)
 
 </div>
 
