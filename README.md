@@ -8,7 +8,7 @@ I'm a **junior software developer** passionate about creating small projects for
 
 - 🔭 **Currently Working On:** Building my portfolio website.
 - 🌱 **Learning:** Web development technologies.
-- 👨🏽‍💻 **Languages:** C#, C++.
+- 👨🏽‍💻 **Languages:** C#, C++, (And a little java)
 - 🎮 **Game Development:** Creating indie games with C# and the Godot Engine.
 - 📹 **Content Creation:** Planning to make videos about my progress (stay tuned!).
 
