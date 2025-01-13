@@ -6,10 +6,10 @@ I'm a **junior software developer** passionate about creating small projects for
 ## 🔍 About Me
 <img align="right" alt="GIF" src="https://github.com/Civermau/Country-Mentioned-Bot/blob/master/Images/MAURITIUS.jpg?raw=true" style="border-radius: 24px; width: 180px" />
 
-- 🔭 **Currently Working On:** Building my portfolio website.
-- 🌱 **Learning:** Web development technologies.
+- 🔭 **Currently Working On:** Improving as a backend dev!.
+- 🌱 **Learning:** Web development and server management.
 - 👨🏽‍💻 **Languages:** C#, C++, (And a little java)
-- 🎮 **Game Development:** Creating indie games with C# and the Godot Engine.
+- 🎮 **Game Development:** Creating small indie games with C# and the Godot Engine.
 - 📹 **Content Creation:** Planning to make videos about my progress (stay tuned!).
 
 ## 🛠️ Technologies & Tools
