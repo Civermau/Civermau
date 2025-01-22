@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&color=3189F7&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=100&lines=This+is+Civer_mau;And+welcome+to+my+GitHub+account)](https://git.io/typing-svg)
 ---
-![Banner](https://yt3.googleusercontent.com/Z0EpFfOExGOFFC5s7kENvtXESh0O9Jm8xRFxjFhOy3OPN72qvlmzmdqj8FJ59nTHPoRRM05o=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![Banner](https://github.com/user-attachments/assets/6acaf619-5d7c-42bd-ba4f-bc973f5d676c)
+
 I'm a **junior software developer** passionate about creating small projects for fun and learning. I specialize in **C#** and **C++**, and I'm currently delving into **web development**.
 
 ## 🔍 About Me
