@@ -39,8 +39,8 @@ I'm a **junior software developer** passionate about creating small projects for
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Civermau&show_icons=true&theme=merko&hide_rank=true&bg_color=90,000000,1C2600" style="height:180px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Civermau&layout=compact&theme=merko&card_width=495&bg_color=90,000000,273500" style="height:180px;"/>
+  <img src="https://readme-stats-fast.vercel.app/api?username=Civermau&show_icons=true&theme=merko&hide_rank=true&bg_color=90,000000,1C2600" style="height:180px;"/>
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Civermau&layout=compact&theme=merko&card_width=495&bg_color=90,000000,273500" style="height:180px;"/>
 </div>
 
 
