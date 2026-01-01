@@ -2,7 +2,8 @@
 ---
 ![Banner](https://github.com/user-attachments/assets/6acaf619-5d7c-42bd-ba4f-bc973f5d676c)
 
-I'm a **junior software developer** passionate about creating small projects for fun and learning. I specialize in **C#** and **C++**, and I'm currently delving into **web development**.
+C++ hater, best enemy of @zellterics
+I'm a **junior software developer** passionate about creating small projects for fun and learning. I specialize in **C#** and **C++**
 
 ## 🔍 About Me
 <img align="right" alt="GIF" src="https://github.com/Civermau/Country-Mentioned-Bot/blob/master/country-mentioned-bot/Images/MAURITIUS.jpg?raw=true" style="border-radius: 24px; width: 180px" />
