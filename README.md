@@ -2,7 +2,7 @@
 ---
 ![Banner](https://github.com/user-attachments/assets/6acaf619-5d7c-42bd-ba4f-bc973f5d676c)
 
-C++ hater, best enemy of @zellterics
+C++ hater, best enemy of [@zellterics](https://github.com/Zellterics) (and very fan of enemies to lovers enemies genre)
 
 I'm a **junior software developer** passionate about creating small projects for fun and learning. I specialize in **C#** and **C++**
 
