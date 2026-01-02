@@ -1,8 +1,6 @@
 ![Banner](https://github.com/user-attachments/assets/6acaf619-5d7c-42bd-ba4f-bc973f5d676c)
 
 ---
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&center=true&vCenter=true&random=true&width=1200&lines=Invincible;Fearless;Sensual;Mysterious;Enchanting;Vigorous;Diligent;Overwhelming;Gorgeous;Terrifying;Beautiful;Powerful)](https://git.io/typing-svg)
 C++ hater, best enemy of [@zellterics](https://github.com/Zellterics) (and very fan of enemies to lovers enemies genre)
 
 Just another junior software developer, self-taught and without a degree, I like to make projects for fun, mostly silly stuff without an actual real use. I really enjoy making silly bots for stuff like discord and whatsapp.
@@ -15,7 +13,6 @@ Just another junior software developer, self-taught and without a degree, I like
 - 👨🏽‍💻 **Languages:** C#, C++, and Go (Omg new language unlocked)
 - 🎮 **Game Development:** Creating small indie games with C# and the Godot Engine.
 - 📹 **Content Creation:** Planning to make videos about my progress (Someday I swear).
-
 ## 🛠️ Technologies & Tools
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
