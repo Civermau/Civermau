@@ -1,23 +1,7 @@
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="left" width="180">
-      <img src="https://img1.picmix.com/output/stamp/thumb/7/7/8/3/2243877_e23b6.gif?raw=true"
-           style="border-radius: 24px; width: 180px;" />
-    </td>
-    <td align="center">
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&color=3189F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=This+is+Civer_mau;And+welcome+to+my+GitHub+profile" />
-      </a>
-    </td>
-    <td align="right" width="180">
-      <img src="https://img1.picmix.com/output/stamp/thumb/7/7/8/3/2243877_e23b6.gif?raw=true"
-           style="border-radius: 24px; width: 180px;" />
-    </td>
-  </tr>
-</table>
+![Banner](https://github.com/user-attachments/assets/6acaf619-5d7c-42bd-ba4f-bc973f5d676c)
 
 ---
-![Banner](https://github.com/user-attachments/assets/6acaf619-5d7c-42bd-ba4f-bc973f5d676c)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&center=true&vCenter=true&random=true&width=1200&lines=Invincible;Fearless;Sensual;Mysterious;Enchanting;Vigorous;Diligent;Overwhelming;Gorgeous;Terrifying;Beautiful;Powerful)](https://git.io/typing-svg)
 C++ hater, best enemy of [@zellterics](https://github.com/Zellterics) (and very fan of enemies to lovers enemies genre)
 
@@ -49,7 +33,7 @@ Yeah......
 Y may have abandoned coding for a couple months so........
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Addicted to see high numbers)
 
 <div align="center">
   <img src="https://readme-stats-fast.vercel.app/api?username=Civermau&show_icons=true&theme=merko&hide_rank=true&bg_color=90,000000,1C2600" style="height:180px;"/>
@@ -58,7 +42,7 @@ Y may have abandoned coding for a couple months so........
 
 
 
-## 🌐 Connect with Me
+## 🌐 My socials... like if you'd like to stalk me or something like that
 
 <div align="center">
 
