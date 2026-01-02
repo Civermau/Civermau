@@ -2,6 +2,7 @@
 
 ---
 ![Banner](https://github.com/user-attachments/assets/6acaf619-5d7c-42bd-ba4f-bc973f5d676c)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&center=true&vCenter=true&random=true&width=1200&lines=Invincible;Fearless;Sensual;Mysterious;Enchanting;Vigorous;Diligent;Overwhelming;Gorgeous;Terrifying;Beautiful;Powerful)](https://git.io/typing-svg)
 
 C++ hater, best enemy of [@zellterics](https://github.com/Zellterics) (and very fan of enemies to lovers enemies genre)
 
@@ -9,8 +10,6 @@ Just another junior software developer, self-taught and without a degree, I like
 
 ## 🔍 About Me
 <img align="right" alt="GIF" src="https://github.com/Civermau/Country-Mentioned-Bot/blob/master/country-mentioned-bot/Images/MAURITIUS.jpg?raw=true" style="border-radius: 24px; width: 180px" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Invincible;Fearless;Sensual;Mysterious;Enchanting;Vigorous;Diligent;Overwhelming;Gorgeous;Terrifying;Beautiful;Powerful;Grey+)](https://git.io/typing-svg)
 
 - 🔭 **Currently Working On:** A stream avatar's based program for someone 👀
 - 🌱 **Learning:** I'm supposed to be learning networking but...
