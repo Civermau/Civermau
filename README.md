@@ -6,7 +6,7 @@
     </td>
     <td align="center">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&color=3189F7&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=100&lines=This+is+Civer_mau;And+welcome+to+my+GitHub+profile" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&color=3189F7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=This+is+Civer_mau;And+welcome+to+my+GitHub+profile" />
       </a>
     </td>
     <td align="right" width="180">
