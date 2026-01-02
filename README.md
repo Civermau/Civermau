@@ -1,9 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&color=3189F7&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=100&lines=This+is+Civer_mau;And+welcome+to+my+GitHub+account)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&color=3189F7&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=100&lines=This+is+Civer_mau;And+welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 ---
 ![Banner](https://github.com/user-attachments/assets/6acaf619-5d7c-42bd-ba4f-bc973f5d676c)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&center=true&vCenter=true&random=true&width=1200&lines=Invincible;Fearless;Sensual;Mysterious;Enchanting;Vigorous;Diligent;Overwhelming;Gorgeous;Terrifying;Beautiful;Powerful)](https://git.io/typing-svg)
-
 C++ hater, best enemy of [@zellterics](https://github.com/Zellterics) (and very fan of enemies to lovers enemies genre)
 
 Just another junior software developer, self-taught and without a degree, I like to make projects for fun, mostly silly stuff without an actual real use. I really enjoy making silly bots for stuff like discord and whatsapp.
@@ -55,8 +54,8 @@ Y may have abandoned coding for a couple months so........
 
 ---
 <div align="center">
-
-![](https://api.visitorbadge.io/api/VisitorHit?user=Civermau&repo=Civermau&countColor=%237B1E7A)
+	
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCivermau&label=Times%20someone%20checked%20the%20profile%20%F0%9F%91%80&countColor=%23263759)
 
 </div>
 
