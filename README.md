@@ -1,4 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&color=3189F7&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=100&lines=This+is+Civer_mau;And+welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" width="180">
+      <img src="https://img1.picmix.com/output/stamp/thumb/7/7/8/3/2243877_e23b6.gif?raw=true"
+           style="border-radius: 24px; width: 180px;" />
+    </td>
+    <td align="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&color=3189F7&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=100&lines=This+is+Civer_mau;And+welcome+to+my+GitHub+profile" />
+      </a>
+    </td>
+    <td align="right" width="180">
+      <img src="https://img1.picmix.com/output/stamp/thumb/7/7/8/3/2243877_e23b6.gif?raw=true"
+           style="border-radius: 24px; width: 180px;" />
+    </td>
+  </tr>
+</table>
 
 ---
 ![Banner](https://github.com/user-attachments/assets/6acaf619-5d7c-42bd-ba4f-bc973f5d676c)
